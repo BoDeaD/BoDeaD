@@ -6,7 +6,7 @@ I like programming since childhood
 * 🌍  I'm based in Ukraine Odessa
 * ✉️  You can contact me at [lageroped7@gmail.com](mailto:lageroped7@gmail.com)
 * 🧠  I'm learning Django and Data bases
-* ⚡  I'm secretly Batman... but don't tell anyone
+* ⚡   I'm love listening to music 🎧 and playing guitar :guitar:   
 
 <a href="https://www.github.com/BoDeaD" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/BoDeaD?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 #### Skills  
